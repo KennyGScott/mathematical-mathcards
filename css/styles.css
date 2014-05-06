@@ -1,0 +1,42 @@
+/* Eric Meyer's Reset CSS v2.0 - http://cssreset.com */
+html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video{border:0;font-size:100%;font:inherit;vertical-align:baseline;margin:0;padding:0}article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block}body{line-height:1}ol,ul{list-style:none}blockquote,q{quotes:none}blockquote:before,blockquote:after,q:before,q:after{content:none}table{border-collapse:collapse;border-spacing:0}
+
+/* Fix box sizing */
+*, *:before, *:after {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+/* Hide the ugly overflow (if any) */
+html, body { overflow-y: hidden; }
+/* Percentage based heights require all parents to have height */
+html, body, #wrap, #cards {
+  height: 100%;
+  font-family: "Comic Sans MS", sans-serif;
+}
+/* Make sure we have a pointer finger instead of stupid arrow */
+#cards { cursor: pointer; }
+/* Set up our cards */
+#cards li {
+  float: left;
+  height: 37.5%;
+  width: 20%;
+  display: table;
+  text-align: center;
+  position: relative;
+}
+/* Style the actual card numeric values */
+#cards li span {
+  font-size: 72px;
+  color: #fff;
+  text-shadow: 3px 3px 0 rgba(0, 0, 0, 0.25);
+  display: table-cell;
+  vertical-align: middle;
+}
+/* Add some generic styles to the problem */
+#problem {
+	font-size: 125px;
+	line-height: 125px;
+	text-align: center;
+	height: 25%;
+}
