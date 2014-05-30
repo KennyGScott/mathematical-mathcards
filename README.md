@@ -1,6 +1,6 @@
 # [Mathematical Mathcards](http://mathcards.design-ninja.net)
 
-##by: Kenny Scott
+## by: Kenny Scott
 
 A simple, functioning Math Flashcards game, 
 
