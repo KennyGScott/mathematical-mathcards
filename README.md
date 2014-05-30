@@ -11,4 +11,3 @@ Future will bring:
  - Many more sound effects (hearing the same ones gets boring)
 
 Yes, I realize there is stuff like this out there, but this is catered to MY SON and his interests and learning style...everything out there is either ugly, complex or just distracting as hell.
-*/
