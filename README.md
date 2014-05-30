@@ -1,4 +1,4 @@
-# [Mathematical Mathcards](http://mathcards/design-ninja.net)
+# [Mathematical Mathcards](http://mathcards.design-ninja.net)
 
 ##by: Kenny Scott
 
