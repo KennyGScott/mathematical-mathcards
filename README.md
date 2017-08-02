@@ -1,4 +1,4 @@
-# [Mathematical Mathcards](http://designninjanet.github.io/mathematical-mathcards)
+# [Mathematical Mathcards](http://kennygscott.github.io/mathematical-mathcards)
 
 ### by: Kenny Scott
 
