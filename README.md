@@ -2,4 +2,6 @@
 
 ### by: Kenny Scott
 
-A simple, functioning Math Flashcards game, yes, I realize there is stuff like this out there, but this is catered to MY SON and his interests and learning style...everything out there is either ugly, complex or just too distracting.
+A simple, functioning Math Flashcards game with fun Adventure Time sounds
+
+```This is not intended to be judged, I just threw it together for my son to play. ¯\_(ツ)_/¯```
